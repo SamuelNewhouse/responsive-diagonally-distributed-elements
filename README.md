@@ -1,10 +1,6 @@
 # Responsive Diagonally Distributed Elements
 
-Responsively aligns the centers of inner elements on a diagonal line going from the center of
-the first element to the center of the last element. A container element is used to
-determine the left-most and right-most positions. When set to align diagonally down, the first
-element is placed far left and the last element is placed far right. The reverse is true when
-set to align diagonally up. Inner elements may also be blocked from going past a chosen margin.
+Responsively aligns the centers of inner elements on a diagonal line going from the center of the first element to the center of the last element. A container element is used to determine the left-most and right-most positions. When set to align diagonally down, the first element is placed far left and the last element is placed far right. The reverse is true when set to align diagonally up. Inner elements may also be blocked from going past a chosen margin.
 
 Requirements
 ------------------------------------------------------------------------------------------------
