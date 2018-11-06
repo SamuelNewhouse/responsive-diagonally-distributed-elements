@@ -5,6 +5,7 @@ Responsively aligns the centers of inner elements on a diagonal line going from 
 Requirements
 ------------------------------------------------------------------------------------------------
 Requires javascript-detect-element-resize.js
+
 https://github.com/sdecima/javascript-detect-element-resize
 
 Options (set as classes on a container element)
@@ -24,6 +25,7 @@ Options (set as classes on a container element)
 Author
 ---------------------------------
 Samuel Newhouse
+
 https://github.com/SamuelNewhouse
 
 Version
